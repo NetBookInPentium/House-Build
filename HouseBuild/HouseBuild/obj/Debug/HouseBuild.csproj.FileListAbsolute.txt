@@ -1,0 +1,11 @@
+D:\Susny\House-Build\HouseBuild\HouseBuild\bin\Debug\HouseBuild.exe.config
+D:\Susny\House-Build\HouseBuild\HouseBuild\bin\Debug\HouseBuild.exe
+D:\Susny\House-Build\HouseBuild\HouseBuild\bin\Debug\HouseBuild.pdb
+D:\Susny\House-Build\HouseBuild\HouseBuild\obj\Debug\HouseBuild.csproj.AssemblyReference.cache
+D:\Susny\House-Build\HouseBuild\HouseBuild\obj\Debug\HouseBuild.Form1.resources
+D:\Susny\House-Build\HouseBuild\HouseBuild\obj\Debug\HouseBuild.Properties.Resources.resources
+D:\Susny\House-Build\HouseBuild\HouseBuild\obj\Debug\HouseBuild.csproj.GenerateResource.cache
+D:\Susny\House-Build\HouseBuild\HouseBuild\obj\Debug\HouseBuild.csproj.CoreCompileInputs.cache
+D:\Susny\House-Build\HouseBuild\HouseBuild\obj\Debug\HouseBuild.exe
+D:\Susny\House-Build\HouseBuild\HouseBuild\obj\Debug\HouseBuild.pdb
+D:\Susny\House-Build\HouseBuild\HouseBuild\obj\Debug\HouseBuild.Menu.resources
