@@ -27,7 +27,7 @@ namespace HouseBuild
             if (Call_db.Select_user(textBox1.Text, textBox2.Text))
             {
                 Menu menu = new Menu();
-                menu.ShowDialog();
+                menu.ShowDialog(this);
                 this.Close();
             }
             else
